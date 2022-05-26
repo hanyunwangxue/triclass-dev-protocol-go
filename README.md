@@ -1,2 +1,2 @@
-# triclass-dev-protocol-go
+# 三个课堂设备接入协议
 三个课堂协议Golang版本
